@@ -859,7 +859,7 @@ dataSet[dataSetVersion].characterData = [
     img: "yz7bhnp.png",
     opts: {
       game: ['s3'],
-      band: ['dc','oth']
+      band: ['dc','sqs']
     }
   },
   {
